@@ -1,4 +1,4 @@
-# Hey ! 👋 
+# Hey ! 👋                            [![Visits Badge](https://badges.pufler.dev/visits/PierreMouchan/git-badges)](https://badges.pufler.dev)
 
 ---
 
@@ -24,4 +24,4 @@ I'm also a **performance optimist**, looking to achieve *"god"* performances thr
 
 — You can reach me and find all my works on my Portfolio : [pierremouchan.com](https://pierremouchan.com)
 
-Bisou ! 👋 [![Visits Badge](https://badges.pufler.dev/visits/PierreMouchan/git-badges)](https://badges.pufler.dev)
+Bisou ! 👋 
