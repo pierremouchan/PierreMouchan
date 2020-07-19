@@ -1,4 +1,4 @@
-# Hey ! 👋                            [![Visits Badge](https://badges.pufler.dev/visits/PierreMouchan/git-badges)](https://badges.pufler.dev)
+# Hey ! 👋
 
 ---
 
