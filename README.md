@@ -14,7 +14,7 @@ I'm also a **performance optimist**, looking to achieve *"god"* performances thr
 
 — I'm currently improving my DEV skills on some advanced JS Topics through my sides projects and some research. 👨‍💻
 
-— I'm looking to collaborate on **any projects all around the globe** ! (DM me 🌚, we'll see)
+— I'm looking to collaborate on **any projects all around the globe** ! (DM me 🌚 we'll see)
 
 *(A little preference for projects related to JS Stuff 👈)*
 
