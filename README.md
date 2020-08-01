@@ -8,7 +8,7 @@ I define myself as *"a Developer with a Designer's Heart !".*
 As an *Autodidact Developer with a Designer's Heart*, i'm aiming to work with **artists, creative agencies, startups and individuals.**
 
 
-I'm also a **performance and javascript enthusiast**, looking to achieve *"god"* performances through all my projects, focusing on delivering a delightful and refined experience to my clients and my users.
+I'm also a **performance and javascript enthusiast**, looking to achieve *"god"* performances through all my projects, focusing on delivering an excellent and refined experience to my clients and my users.
 
 › I'm currently working on my **portfolio**, on a side-project called **Keplair** (coming soon) as the **Designer and the Front-end Developer. 🔥**
 
