@@ -4,7 +4,6 @@
 
 I'm Pierre Mouchan, a **Freelance Developer** based in Lyon in France.
 
-I define myself as *"a Developer with a Designer's Heart !".*
 As an *Autodidact Developer with a Designer's Heart*, i'm aiming to work with **artists, creative agencies, startups and individuals.**
 
 
