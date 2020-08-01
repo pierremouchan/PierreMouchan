@@ -18,9 +18,7 @@ I'm also a **performance and javascript enthusiast**, looking to achieve *"god"*
 
 *I'm open to any inquiries! Contact me!*
 
-***Tech Stack***
----
-› React, WebGL, WordPress, Gatsby, Next, GraphQL, Recoil, Vue, Netlify. 
+› My **tech stack** and preferences: React, WebGL, WordPress, Gatsby, Next, GraphQL, Recoil, Vue, Netlify. 
 
 
 I'm also looking for a **Mentor** (Senior Developer) specialised in React. 😎
