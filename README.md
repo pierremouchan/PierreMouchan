@@ -2,7 +2,7 @@
 
 ---
 
-I'm Pierre Mouchan, a **Freelance Developer** based in Lyon in France.
+I'm Pierre Mouchan, a **Freelance Developer** based in France.
 
 As an *Autodidact Developer with a Designer's Heart*, i'm aiming to work with **artists, creative agencies, startups and individuals.**
 
