@@ -22,7 +22,7 @@ I'm also a **performance and javascript enthusiast**, looking to achieve *"god"*
 
 I'm also looking for a **Mentor** (Senior Developer) specialised in React. 😎
 
-› Currently, i'll try to take some times to learn **NodeJS** (+ Deno), **React Native** and **PWA**. 🤙
+› Currently, i try to take some times to learn **Blender** and some **Drawing stuff** to enhanced my design skills, I plan to learn **NodeJS** (+ Deno), **React Native** and **PWA** in the future. 🤙
 
 You can reach me and find all my works on my Portfolio : [pierremouchan.com](https://pierremouchan.com)
 
