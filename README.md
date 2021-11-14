@@ -38,4 +38,5 @@ my mission is to help them deliver a great experience for their users. 🚀
     and learning the business side - Since then, I know how to guide a startup to success
 
 If you want to learn more about any of my works, or just chat with me 👇
+
 https://hello.pierremouchan.com
