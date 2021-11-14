@@ -16,7 +16,7 @@ Since that day, I've spent my time building many opportunities for companies. �
 Combined with my former skills as a multidisciplinary freelancer,
 my mission is to help them deliver a great experience for their users. 🚀
 
-**TODAY:
+**TODAY:**
 
 → I've helped digital agencies in New York and Europe build creative websites for their clients
 → I've produced augmented reality filters in collaboration with Facebook for a Swiss Company
@@ -28,7 +28,7 @@ my mission is to help them deliver a great experience for their users. 🚀
 → I've learned from my mistakes, taking into consideration every bad step that we took to build our 
     startup
 
-**THE RESULTS?
+**THE RESULTS?**
 
 → Winning some awards, rewarding both the client and the digital agency with significant numbers of 
     views and new business opportunities.
